@@ -1,4 +1,4 @@
-# Sample code for the test
+# EE579 Diagnostic test: sample code
 You can take a look at the code and start writing your own or you can
-use the code given here. 
+start with the given code here. 
 
